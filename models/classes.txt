@@ -1,0 +1,1 @@
+["Angry", "Crying", "Happy", "neutral", "sad"]
